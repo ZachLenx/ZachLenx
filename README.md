@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZachLenx
+- 👋 Hi, I’m @Zaim
 - 👀 I’m interested in Flutter development 
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
